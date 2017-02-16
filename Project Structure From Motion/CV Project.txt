@@ -1,0 +1,18 @@
+3D Image Reconstruction:
+https://www.inf.ethz.ch/personal/pomarc/pubs/LeemanSIP00.pdf
+
+Using SFM(Structure from Motion):
+http://www.mathworks.com/help/vision/examples/structure-from-motion-from-two-views.html?requestedDomain=www.mathworks.com
+
+MATLAB and Octave functions for CV:
+http://www.peterkovesi.com/matlabfns
+
+
+Dataset:
+http://lgg.epfl.ch/statues_dataset.php
+
+Single Camera Callibration:
+http://www.mathworks.com/help/vision/ug/single-camera-calibration.html
+
+SFM from Multiple Views:
+http://www.mathworks.com/help/vision/examples/structure-from-motion-from-multiple-views.html

@@ -1,0 +1,4 @@
+Focal Length = 10
+Aperture = 1/60s
+Exposure = 0
+Chessboard Block Size = 219mm
